@@ -10,7 +10,7 @@
 #include "XoaNode.c"
 #include "Menu.c"
 
-/// Hàm main
+/// HÃ m main
 int main() {
     TREE t;
     KhoiTaoCay(&t);
